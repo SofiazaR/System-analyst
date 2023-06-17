@@ -11,8 +11,12 @@
             "id": "e73e3b231a2dd351",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Прочее/Литература/Книги.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Прочее/Литература/Книги.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Прочее/Литература/Книги.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Прочее/Литература/Книги.md"
+              }
             }
           }
         ],
@@ -140,6 +148,8 @@
   },
   "active": "e73e3b231a2dd351",
   "lastOpenFiles": [
+    "Прочее/Литература/Книги.md",
+    "Прочее/Литература",
     "Прочее/Навыки/Навыки.md",
     "Прочее/Map/Pasted image 20230617101038.png",
     "Protocols/SOAP/SOAP.md",
@@ -170,7 +180,6 @@
     "Tools/API Testing Tools/Postman",
     "Tools/API Testing Tools",
     "Tools/SQL IDE/SQL Developer",
-    "Tools/SQL IDE/DataGrip",
     "Standarts/Дополнительно/Основная разница между стандартами.md",
     "Dev methods/Agile/Kanban.md",
     "Dev methods/Agile/Scrum.md",
