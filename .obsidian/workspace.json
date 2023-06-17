@@ -8,123 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e28461700972498c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "109ae3ee885f7e34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Task Tracker/Jira.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ae2a68a4c5a141f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Task Tracker/Jira.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8a4426b4d7faf8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Modeling Software/Visio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "356952be95e042e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Modeling Software/Aris.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0633e94d07960ba8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Modeling Software/BPWin.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3dbdf1eaeb705d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Modeling Software/Enterprise Architect.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b7d544c76cdd73d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture/client server.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e070c4b0a86cb530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture/SOA/ESB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "94958013c79751a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/SOA/Web Services.md",
+                "file": "Databases/COBC/COBC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture/SOA/Web Services.md",
+                "file": "Databases/COBC/COBC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture/SOA/Web Services.md",
+                "file": "Databases/COBC/COBC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/SOA/Web Services.md"
+                "file": "Databases/COBC/COBC.md"
               }
             }
           }
@@ -253,30 +148,37 @@
   },
   "active": "26ca088ac286e977",
   "lastOpenFiles": [
-    "Без названия",
-    "Databases",
-    "Standarts",
-    "Interface definition languages",
-    "Dev methods",
-    "Software requirements",
-    "Tools",
-    "Architecture/SOA/ESB.md",
+    "Dev methods/Без названия",
+    "Dev methods/Agile",
+    "Databases/JDOC/JDOC.md",
+    "Databases/COBC/COBC.md",
+    "Databases/NoSQL/NoSQL.md",
+    "Databases/JDOC",
+    "Databases/COBC",
+    "Databases/SQL/SQL.md",
+    "Databases/NoSQL",
     "Architecture/SOA/Web Services.md",
+    "Databases/SQL",
     "Architecture/MSA/MQ.md",
-    "Architecture/REST.md",
+    "Прочее/Map/Map.md",
+    "Прочее/Map/Pasted image 20230617101038.png",
+    "Прочее/Без названия/Без названия.md",
+    "Прочее/Map",
+    "Прочее",
+    "Без названия.canvas",
+    "Architecture/SOA/ESB.md",
     "Architecture/client server.md",
     "Software/Modeling Software/Enterprise Architect.md",
-    "Architecture/MSA",
-    "Architecture/SOA",
-    "Architecture",
-    "Software/Modeling Software/ERWin.md",
     "Software/Modeling Software/BPWin.md",
     "Software/Modeling Software/Aris.md",
-    "Software/Modeling Software/Rational Rose.md",
     "Software/Modeling Software/Visio.md",
+    "Modeling languages",
+    "Protocols",
+    "Databases",
+    "Architecture/REST.md",
+    "Software/Modeling Software/ERWin.md",
+    "Software/Modeling Software/Rational Rose.md",
     "Software/Task Tracker/Jira.md",
-    "Software/Collaboration Systems/Confluence.md",
-    "Software/Modeling Software",
-    "Без названия.canvas"
+    "Software/Collaboration Systems/Confluence.md"
   ]
 }
