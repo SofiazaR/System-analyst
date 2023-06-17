@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прочее/Поиск работы/Составление резюме.md",
+                "file": "Software requirements/Другое/Классификация требований.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Прочее/Поиск работы/Составление резюме.md",
+                "file": "Software requirements/Другое/Классификация требований.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Прочее/Поиск работы/Составление резюме.md",
+                "file": "Software requirements/Другое/Классификация требований.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Прочее/Поиск работы/Составление резюме.md"
+                "file": "Software requirements/Другое/Классификация требований.md"
               }
             }
           }
@@ -161,8 +161,12 @@
   },
   "active": "e73e3b231a2dd351",
   "lastOpenFiles": [
-    "Tools/VCS/Git/Git.md",
+    "Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide/BABOK.md",
+    "Software requirements/Другое/Классификация требований.md",
+    "Software requirements/Другое",
     "Прочее/Поиск работы/Составление резюме.md",
+    "Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide",
+    "Tools/VCS/Git/Git.md",
     "Прочее/Поиск работы",
     "Прочее/Map/Map.md",
     "Architecture/MSA/MQ/MQ.md",
@@ -175,8 +179,6 @@
     "Tools/SQL IDE/SQL Developer",
     "Tools/SQL IDE/DataGrip",
     "Tools/SQL IDE",
-    "Tools/Software IDE/ASCII Doc",
-    "Tools/Software IDE/PlantUML",
     "Standarts/Дополнительно/Основная разница между стандартами.md",
     "Dev methods/Agile/XP.md",
     "Dev methods/Agile/Kanban.md",
@@ -196,8 +198,6 @@
     "Software/Modeling Software/Visio.md",
     "Architecture/REST.md",
     "Software/Modeling Software/ERWin.md",
-    "Software/Modeling Software/Rational Rose.md",
-    "Software/Task Tracker/Jira.md",
-    "Software/Collaboration Systems/Confluence.md"
+    "Software/Modeling Software/Rational Rose.md"
   ]
 }
