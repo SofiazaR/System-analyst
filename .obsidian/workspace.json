@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0c3dc47ac18b3c9e",
+        "id": "bf6c1347da788350",
         "type": "tabs",
         "children": [
           {
-            "id": "e73e3b231a2dd351",
+            "id": "c45620ed5dd6d13a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прочее/Литература/Книги.md",
+                "file": "Road map/Map/Map.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Прочее/Литература/Книги.md",
+                "file": "Road map/Map/Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Прочее/Литература/Книги.md",
+                "file": "Road map/Map/Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Прочее/Литература/Книги.md"
+                "file": "Road map/Map/Map.md"
               }
             }
           }
@@ -146,45 +146,45 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "26ca088ac286e977",
+  "active": "c45620ed5dd6d13a",
   "lastOpenFiles": [
+    "Road map/Architecture/SOA/SOA.md",
+    "Road map/Map/Map.md",
+    "Road map/Architecture/SOA/REST/REST.md",
+    "Road map/Architecture/SOA/REST",
+    "Road map/Architecture/SOA/Client-Server/client server.md",
+    "Road map/Architecture/SOA/Client-Server",
+    "Road map/Architecture/SOA/Web Serwices/Web Services.md",
+    "Road map/Architecture/SOA/ESB/ESB.md",
+    "Road map/Architecture/SOA/Web Serwices",
+    "Road map/Architecture/MSA/MSA.md",
+    "Road map/Architecture/SOA/ESB",
+    "Road map/Map/Pasted image 20230617101038.png",
+    "Road map/Map/Без названия.canvas",
+    "Road map/Modeling languages/UML/UML.md",
+    "Прочее/Навыки/Навыки.md",
+    "Прочее/Поиск работы/Составление резюме.md",
     "Прочее/Литература/Статьи.md",
     "Прочее/Литература/Книги.md",
+    "Road map",
     "Прочее/Литература",
-    "Прочее/Навыки/Навыки.md",
-    "Прочее/Map/Pasted image 20230617101038.png",
-    "Protocols/SOAP/SOAP.md",
-    "Interface definition languages/XML/XML.md",
-    "Interface definition languages/JSON/JSON.md",
-    "Modeling languages/UML/UML.md",
-    "Modeling languages/ER-model/ER-model.md",
-    "Modeling languages/DFD/DFD.md",
-    "Modeling languages/BPMN/BPMN.md",
-    "Software requirements/User Story/User Story.md",
+    "Road map/Protocols/SOAP/SOAP.md",
+    "Road map/Interface definition languages/XML/XML.md",
+    "Road map/Interface definition languages/JSON/JSON.md",
+    "Road map/Modeling languages/ER-model/ER-model.md",
+    "Road map/Modeling languages/DFD/DFD.md",
+    "Road map/Modeling languages/BPMN/BPMN.md",
+    "Road map/Software requirements/User Story/User Story.md",
     "User Story.md",
-    "Dev methods/Agile/XP.md",
-    "Architecture/REST.md",
-    "Прочее/Поиск работы/Составление резюме.md",
+    "Road map/Dev methods/Agile/XP.md",
     "Прочее/Навыки",
-    "Software requirements/Другое/Классификация требований.md",
-    "Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide/BABOK.md",
-    "Software requirements/Другое",
-    "Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide",
-    "Tools/VCS/Git/Git.md",
+    "Road map/Software requirements/Другое/Классификация требований.md",
+    "Road map/Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide/BABOK.md",
+    "Road map/Software requirements/Другое",
+    "Road map/Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide",
+    "Road map/Tools/VCS/Git/Git.md",
     "Прочее/Поиск работы",
-    "Прочее/Map/Map.md",
-    "Architecture/MSA/MQ/MQ.md",
-    "Architecture/client server.md",
-    "Architecture/MSA/MQ",
-    "Standarts/Дополнительно/Вопросы по теме.md",
-    "Tools/API Testing Tools/Soap UI",
-    "Tools/API Testing Tools/Postman",
-    "Tools/API Testing Tools",
-    "Tools/SQL IDE/SQL Developer",
-    "Standarts/Дополнительно/Основная разница между стандартами.md",
-    "Dev methods/Agile/Kanban.md",
-    "Dev methods/Agile/Scrum.md",
-    "Databases/COBC/COBC.md",
+    "Road map/Architecture/MSA/MQ/MQ.md",
     "Без названия.canvas"
   ]
 }
