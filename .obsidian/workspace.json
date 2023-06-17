@@ -146,8 +146,9 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e73e3b231a2dd351",
+  "active": "26ca088ac286e977",
   "lastOpenFiles": [
+    "Прочее/Литература/Статьи.md",
     "Прочее/Литература/Книги.md",
     "Прочее/Литература",
     "Прочее/Навыки/Навыки.md",
@@ -184,7 +185,6 @@
     "Dev methods/Agile/Kanban.md",
     "Dev methods/Agile/Scrum.md",
     "Databases/COBC/COBC.md",
-    "Databases/JDOC/JDOC.md",
     "Без названия.canvas"
   ]
 }
