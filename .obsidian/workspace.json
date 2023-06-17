@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "94958013c79751a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dev methods/Agile/XP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e73e3b231a2dd351",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 287.5
   },
   "right": {
     "id": "94c5420c70c509ba",
@@ -161,8 +148,19 @@
   },
   "active": "e73e3b231a2dd351",
   "lastOpenFiles": [
-    "Architecture/REST.md",
+    "Прочее/Map/Pasted image 20230617101038.png",
     "Прочее/Навыки/Навыки.md",
+    "Protocols/SOAP/SOAP.md",
+    "Interface definition languages/XML/XML.md",
+    "Interface definition languages/JSON/JSON.md",
+    "Modeling languages/UML/UML.md",
+    "Modeling languages/ER-model/ER-model.md",
+    "Modeling languages/DFD/DFD.md",
+    "Modeling languages/BPMN/BPMN.md",
+    "Software requirements/User Story/User Story.md",
+    "User Story.md",
+    "Dev methods/Agile/XP.md",
+    "Architecture/REST.md",
     "Прочее/Поиск работы/Составление резюме.md",
     "Прочее/Навыки",
     "Software requirements/Другое/Классификация требований.md",
@@ -182,22 +180,10 @@
     "Tools/SQL IDE/SQL Developer",
     "Tools/SQL IDE/DataGrip",
     "Standarts/Дополнительно/Основная разница между стандартами.md",
-    "Dev methods/Agile/XP.md",
     "Dev methods/Agile/Kanban.md",
     "Dev methods/Agile/Scrum.md",
     "Databases/COBC/COBC.md",
     "Databases/JDOC/JDOC.md",
-    "Databases/NoSQL/NoSQL.md",
-    "Databases/SQL/SQL.md",
-    "Architecture/SOA/Web Services.md",
-    "Прочее/Map/Pasted image 20230617101038.png",
-    "Прочее/Без названия/Без названия.md",
-    "Без названия.canvas",
-    "Architecture/SOA/ESB.md",
-    "Software/Modeling Software/Enterprise Architect.md",
-    "Software/Modeling Software/BPWin.md",
-    "Software/Modeling Software/Aris.md",
-    "Software/Modeling Software/Visio.md",
-    "Software/Modeling Software/ERWin.md"
+    "Без названия.canvas"
   ]
 }
