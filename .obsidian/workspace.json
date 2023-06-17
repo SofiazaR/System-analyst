@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architecture/MSA/MQ/MQ.md",
+                "file": "Прочее/Поиск работы/Составление резюме.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architecture/MSA/MQ/MQ.md",
+                "file": "Прочее/Поиск работы/Составление резюме.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architecture/MSA/MQ/MQ.md",
+                "file": "Прочее/Поиск работы/Составление резюме.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architecture/MSA/MQ/MQ.md"
+                "file": "Прочее/Поиск работы/Составление резюме.md"
               }
             }
           }
@@ -159,12 +159,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "26ca088ac286e977",
+  "active": "e73e3b231a2dd351",
   "lastOpenFiles": [
+    "Tools/VCS/Git/Git.md",
+    "Прочее/Поиск работы/Составление резюме.md",
+    "Прочее/Поиск работы",
+    "Прочее/Map/Map.md",
+    "Architecture/MSA/MQ/MQ.md",
     "Architecture/client server.md",
     "Architecture/MSA/MQ",
-    "Architecture/MSA/MQ/MQ.md",
-    "Прочее/Map/Map.md",
     "Standarts/Дополнительно/Вопросы по теме.md",
     "Tools/API Testing Tools/Soap UI",
     "Tools/API Testing Tools/Postman",
@@ -174,7 +177,6 @@
     "Tools/SQL IDE",
     "Tools/Software IDE/ASCII Doc",
     "Tools/Software IDE/PlantUML",
-    "Tools/Software IDE",
     "Standarts/Дополнительно/Основная разница между стандартами.md",
     "Dev methods/Agile/XP.md",
     "Dev methods/Agile/Kanban.md",
