@@ -21,14 +21,110 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Software/Task Tracker/Jira.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae2a68a4c5a141f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Task Tracker/Jira.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8a4426b4d7faf8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Modeling Software/Visio.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "356952be95e042e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Modeling Software/Aris.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0633e94d07960ba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Modeling Software/BPWin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3dbdf1eaeb705d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Modeling Software/Enterprise Architect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7d544c76cdd73d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/client server.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e070c4b0a86cb530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/SOA/ESB.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94958013c79751a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/SOA/Web Services.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -94,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия.md",
+                "file": "Architecture/SOA/Web Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Без названия.md",
+                "file": "Architecture/SOA/Web Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,11 +230,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Без названия.md"
+                "file": "Architecture/SOA/Web Services.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,10 +251,32 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "109ae3ee885f7e34",
+  "active": "26ca088ac286e977",
   "lastOpenFiles": [
-    "Без названия.md",
-    "Без названия.canvas",
-    "Software"
+    "Без названия",
+    "Databases",
+    "Standarts",
+    "Interface definition languages",
+    "Dev methods",
+    "Software requirements",
+    "Tools",
+    "Architecture/SOA/ESB.md",
+    "Architecture/SOA/Web Services.md",
+    "Architecture/MSA/MQ.md",
+    "Architecture/REST.md",
+    "Architecture/client server.md",
+    "Software/Modeling Software/Enterprise Architect.md",
+    "Architecture/MSA",
+    "Architecture/SOA",
+    "Architecture",
+    "Software/Modeling Software/ERWin.md",
+    "Software/Modeling Software/BPWin.md",
+    "Software/Modeling Software/Aris.md",
+    "Software/Modeling Software/Rational Rose.md",
+    "Software/Modeling Software/Visio.md",
+    "Software/Task Tracker/Jira.md",
+    "Software/Collaboration Systems/Confluence.md",
+    "Software/Modeling Software",
+    "Без названия.canvas"
   ]
 }
