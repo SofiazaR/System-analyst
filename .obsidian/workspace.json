@@ -11,12 +11,8 @@
             "id": "e73e3b231a2dd351",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Прочее/Навыки/Навыки.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Прочее/Навыки/Навыки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Прочее/Навыки/Навыки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Прочее/Навыки/Навыки.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -148,8 +140,8 @@
   },
   "active": "e73e3b231a2dd351",
   "lastOpenFiles": [
-    "Прочее/Map/Pasted image 20230617101038.png",
     "Прочее/Навыки/Навыки.md",
+    "Прочее/Map/Pasted image 20230617101038.png",
     "Protocols/SOAP/SOAP.md",
     "Interface definition languages/XML/XML.md",
     "Interface definition languages/JSON/JSON.md",
