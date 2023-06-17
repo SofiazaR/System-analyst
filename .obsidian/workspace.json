@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databases/COBC/COBC.md",
+                "file": "Dev methods/Agile/XP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e73e3b231a2dd351",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture/MSA/MQ/MQ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databases/COBC/COBC.md",
+                "file": "Architecture/MSA/MQ/MQ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databases/COBC/COBC.md",
+                "file": "Architecture/MSA/MQ/MQ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databases/COBC/COBC.md"
+                "file": "Architecture/MSA/MQ/MQ.md"
               }
             }
           }
@@ -148,33 +161,37 @@
   },
   "active": "26ca088ac286e977",
   "lastOpenFiles": [
-    "Dev methods/Без названия",
-    "Dev methods/Agile",
-    "Databases/JDOC/JDOC.md",
-    "Databases/COBC/COBC.md",
-    "Databases/NoSQL/NoSQL.md",
-    "Databases/JDOC",
-    "Databases/COBC",
-    "Databases/SQL/SQL.md",
-    "Databases/NoSQL",
-    "Architecture/SOA/Web Services.md",
-    "Databases/SQL",
-    "Architecture/MSA/MQ.md",
+    "Architecture/client server.md",
+    "Architecture/MSA/MQ",
+    "Architecture/MSA/MQ/MQ.md",
     "Прочее/Map/Map.md",
+    "Standarts/Дополнительно/Вопросы по теме.md",
+    "Tools/API Testing Tools/Soap UI",
+    "Tools/API Testing Tools/Postman",
+    "Tools/API Testing Tools",
+    "Tools/SQL IDE/SQL Developer",
+    "Tools/SQL IDE/DataGrip",
+    "Tools/SQL IDE",
+    "Tools/Software IDE/ASCII Doc",
+    "Tools/Software IDE/PlantUML",
+    "Tools/Software IDE",
+    "Standarts/Дополнительно/Основная разница между стандартами.md",
+    "Dev methods/Agile/XP.md",
+    "Dev methods/Agile/Kanban.md",
+    "Dev methods/Agile/Scrum.md",
+    "Databases/COBC/COBC.md",
+    "Databases/JDOC/JDOC.md",
+    "Databases/NoSQL/NoSQL.md",
+    "Databases/SQL/SQL.md",
+    "Architecture/SOA/Web Services.md",
     "Прочее/Map/Pasted image 20230617101038.png",
     "Прочее/Без названия/Без названия.md",
-    "Прочее/Map",
-    "Прочее",
     "Без названия.canvas",
     "Architecture/SOA/ESB.md",
-    "Architecture/client server.md",
     "Software/Modeling Software/Enterprise Architect.md",
     "Software/Modeling Software/BPWin.md",
     "Software/Modeling Software/Aris.md",
     "Software/Modeling Software/Visio.md",
-    "Modeling languages",
-    "Protocols",
-    "Databases",
     "Architecture/REST.md",
     "Software/Modeling Software/ERWin.md",
     "Software/Modeling Software/Rational Rose.md",
