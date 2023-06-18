@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Road map/Modeling languages/BPMN/BPMN.md",
+                "file": "Road map/Modeling languages/BPMN/ISO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3919a00e31f732c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Управление проектами/Лекции по управлению проектами..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Road map/Modeling languages/BPMN/BPMN.md",
+                "file": "Управление проектами/Лекции по управлению проектами..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Road map/Modeling languages/BPMN/BPMN.md",
+                "file": "Управление проектами/Лекции по управлению проектами..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Road map/Modeling languages/BPMN/BPMN.md"
+                "file": "Управление проектами/Лекции по управлению проектами..md"
               }
             }
           }
@@ -148,22 +161,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c45620ed5dd6d13a",
+  "active": "f3919a00e31f732c",
   "lastOpenFiles": [
-    "Pasted image 20230618131617.png",
-    "Pasted image 20230618131021.png",
-    "Pasted image 20230618130935.png",
-    "Pasted image 20230618130303.png",
-    "Pasted image 20230618125740.png",
-    "Pasted image 20230618125221.png",
-    "Pasted image 20230618125039.png",
-    "Pasted image 20230618124842.png",
-    "Pasted image 20230618124700.png",
-    "Pasted image 20230618124338.png",
-    "Pasted image 20230618124122.png",
+    "Road map/Modeling languages/BPMN/ISO.md",
+    "Управление проектами/Лекции по управлению проектами..md",
+    "Управление проектами",
+    "Road map/Modeling languages/BPMN/Pasted image 20230618124014.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230618131617.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230618131021.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230618124842.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230618124338.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230618124102.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230618124046.png",
     "![[Pasted image 20230618124046.png.md",
     "Road map/Modeling languages/BPMN/BPMN.md",
-    "ISO.md",
+    "Road map/Modeling languages/BPMN/Pasted image 20230618130935.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230618130303.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230618125740.png",
     "Road map/Architecture/Client-Server/Client-Server.md",
     "Road map/Architecture/Architecture.md",
     "Road map/Map/Map.md",
@@ -196,7 +210,6 @@
     "Прочее/Навыки",
     "Road map/Software requirements/Другое",
     "Road map/Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide",
-    "Прочее/Поиск работы",
     "Без названия.canvas"
   ]
 }
