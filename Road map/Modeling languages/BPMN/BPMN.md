@@ -9,4 +9,7 @@ BPMN признан на уровне [[ISO]]
 ![[Pasted image 20230618124122.png]]
 
 ![[Pasted image 20230618124338.png]]
-
+![[Pasted image 20230618124700.png]]
+![[Pasted image 20230618124842.png]]
+![[Pasted image 20230618125039.png]]
+![[Pasted image 20230618125221.png]]
