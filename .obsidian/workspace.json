@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Road map/Architecture/Client-Server/Client-Server.md",
+                "file": "ISO.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "94c5420c70c509ba",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Road map/Architecture/Client-Server/Client-Server.md",
+                "file": "ISO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Road map/Architecture/Client-Server/Client-Server.md",
+                "file": "ISO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Road map/Architecture/Client-Server/Client-Server.md"
+                "file": "ISO.md"
               }
             }
           }
@@ -134,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,6 +150,8 @@
   },
   "active": "c45620ed5dd6d13a",
   "lastOpenFiles": [
+    "ISO.md",
+    "Road map/Modeling languages/BPMN/BPMN.md",
     "Road map/Architecture/Client-Server/Client-Server.md",
     "Road map/Architecture/Architecture.md",
     "Road map/Map/Map.md",
@@ -175,7 +179,6 @@
     "Road map/Interface definition languages/JSON/JSON.md",
     "Road map/Modeling languages/ER-model/ER-model.md",
     "Road map/Modeling languages/DFD/DFD.md",
-    "Road map/Modeling languages/BPMN/BPMN.md",
     "Road map/Software requirements/User Story/User Story.md",
     "User Story.md",
     "Road map/Dev methods/Agile/XP.md",
@@ -184,7 +187,6 @@
     "Road map/Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide/BABOK.md",
     "Road map/Software requirements/Другое",
     "Road map/Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide",
-    "Road map/Tools/VCS/Git/Git.md",
     "Прочее/Поиск работы",
     "Без названия.canvas"
   ]
