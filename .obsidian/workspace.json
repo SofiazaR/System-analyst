@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISO.md",
+                "file": "Road map/Modeling languages/BPMN/BPMN.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISO.md",
+                "file": "Road map/Modeling languages/BPMN/BPMN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISO.md",
+                "file": "Road map/Modeling languages/BPMN/BPMN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISO.md"
+                "file": "Road map/Modeling languages/BPMN/BPMN.md"
               }
             }
           }
@@ -150,8 +150,15 @@
   },
   "active": "c45620ed5dd6d13a",
   "lastOpenFiles": [
-    "ISO.md",
+    "Pasted image 20230618124338.png",
+    "Pasted image 20230618124122.png",
+    "Pasted image 20230618124102.png",
+    "Pasted image 20230618124055.png",
+    "![[Pasted image 20230618124046.png.md",
     "Road map/Modeling languages/BPMN/BPMN.md",
+    "Pasted image 20230618124046.png",
+    "Pasted image 20230618124014.png",
+    "ISO.md",
     "Road map/Architecture/Client-Server/Client-Server.md",
     "Road map/Architecture/Architecture.md",
     "Road map/Map/Map.md",
@@ -183,8 +190,6 @@
     "User Story.md",
     "Road map/Dev methods/Agile/XP.md",
     "Прочее/Навыки",
-    "Road map/Software requirements/Другое/Классификация требований.md",
-    "Road map/Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide/BABOK.md",
     "Road map/Software requirements/Другое",
     "Road map/Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide",
     "Прочее/Поиск работы",
