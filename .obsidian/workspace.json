@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf6c1347da788350",
+        "id": "4c6440cc369a730a",
         "type": "tabs",
         "children": [
           {
-            "id": "c45620ed5dd6d13a",
+            "id": "17a0c5f670672163",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Управление проектами/Лекции по управлению проектами..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3919a00e31f732c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Управление проектами/Лекции по управлению проектами..md",
+                "file": "Прочее/Поиск работы/Вакансии/Системный аналитик. Компания \"Управление информационными проектами\".md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "94c5420c70c509ba",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Управление проектами/Лекции по управлению проектами..md",
+                "file": "Прочее/Поиск работы/Вакансии/Системный аналитик. Компания \"Управление информационными проектами\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Управление проектами/Лекции по управлению проектами..md",
+                "file": "Прочее/Поиск работы/Вакансии/Системный аналитик. Компания \"Управление информационными проектами\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Управление проектами/Лекции по управлению проектами..md"
+                "file": "Прочее/Поиск работы/Вакансии/Системный аналитик. Компания \"Управление информационными проектами\".md"
               }
             }
           }
@@ -159,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c45620ed5dd6d13a",
+  "active": "26ca088ac286e977",
   "lastOpenFiles": [
+    "Управление проектами/Лекции по управлению проектами..md",
     "Pasted image 20230619123246.png",
     "Pasted image 20230619123232.png",
     "Pasted image 20230619123206.png",
@@ -170,19 +158,17 @@
     "Pasted image 20230619121420.png",
     "Pasted image 20230619121352.png",
     "Pasted image 20230619121254.png",
-    "Прочее/Поиск работы/Untitled/Системный аналитик. Компания \"Управление информационными проектами\".md",
+    "Прочее/Поиск работы/Вакансии/Системный аналитик. Компания \"Управление информационными проектами\".md",
     "Прочее/Поиск работы/Составление резюме.md",
-    "Управление проектами/Лекции по управлению проектами..md",
     "Road map/Standarts/Дополнительно/Основная разница между стандартами.md",
     "Road map/Standarts/Дополнительно/Вопросы по теме.md",
     "Road map/Standarts/ГОСТ 34/ГОСТ 34.md",
     "Road map/Standarts/ГОСТ 19/ГОСТ 19.md",
-    "Прочее/Поиск работы/Untitled",
+    "Прочее/Поиск работы/Вакансии",
     "Untitled.md",
     "Road map/Modeling languages/BPMN/ISO.md",
     "Управление проектами",
     "Road map/Modeling languages/BPMN/Pasted image 20230618124014.png",
-    "Road map/Modeling languages/BPMN/Pasted image 20230618131617.png",
     "![[Pasted image 20230618124046.png.md",
     "Road map/Modeling languages/BPMN/BPMN.md",
     "Road map/Architecture/Client-Server/Client-Server.md",
