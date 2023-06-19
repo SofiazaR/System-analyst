@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Road map/Modeling languages/BPMN/ISO.md",
+                "file": "Прочее/Поиск работы/Untitled/Системный аналитик. Компания \"Управление информационными проектами\".md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "94c5420c70c509ba",
@@ -99,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Управление проектами/Лекции по управлению проектами..md",
+                "file": "Прочее/Поиск работы/Untitled/Системный аналитик. Компания \"Управление информационными проектами\".md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Управление проектами/Лекции по управлению проектами..md",
+                "file": "Прочее/Поиск работы/Untitled/Системный аналитик. Компания \"Управление информационными проектами\".md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Управление проектами/Лекции по управлению проектами..md"
+                "file": "Прочее/Поиск работы/Untitled/Системный аналитик. Компания \"Управление информационными проектами\".md"
               }
             }
           }
@@ -160,8 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f3919a00e31f732c",
+  "active": "c45620ed5dd6d13a",
   "lastOpenFiles": [
+    "Прочее/Поиск работы/Составление резюме.md",
+    "Прочее/Поиск работы/Untitled/Системный аналитик. Компания \"Управление информационными проектами\".md",
+    "Прочее/Поиск работы/Untitled",
+    "Untitled.md",
     "Road map/Modeling languages/BPMN/ISO.md",
     "Управление проектами/Лекции по управлению проектами..md",
     "Управление проектами",
@@ -193,7 +195,6 @@
     "Road map/Map/Без названия.canvas",
     "Road map/Modeling languages/UML/UML.md",
     "Прочее/Навыки/Навыки.md",
-    "Прочее/Поиск работы/Составление резюме.md",
     "Прочее/Литература/Статьи.md",
     "Прочее/Литература/Книги.md",
     "Road map",
@@ -204,11 +205,8 @@
     "Road map/Modeling languages/ER-model/ER-model.md",
     "Road map/Modeling languages/DFD/DFD.md",
     "Road map/Software requirements/User Story/User Story.md",
-    "User Story.md",
-    "Road map/Dev methods/Agile/XP.md",
     "Прочее/Навыки",
     "Road map/Software requirements/Другое",
-    "Road map/Software requirements/The Business Analysis Body Of Knowledge (BABOK) Guide",
     "Без названия.canvas"
   ]
 }
