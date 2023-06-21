@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прочее/Поиск работы/Вакансии/Системный аналитик. Компания \"Управление информационными проектами\".md",
+                "file": "Быстрое повторение/Повторение.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Прочее/Поиск работы/Вакансии/Системный аналитик. Компания \"Управление информационными проектами\".md",
+                "file": "Быстрое повторение/Повторение.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Прочее/Поиск работы/Вакансии/Системный аналитик. Компания \"Управление информационными проектами\".md",
+                "file": "Быстрое повторение/Повторение.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Прочее/Поиск работы/Вакансии/Системный аналитик. Компания \"Управление информационными проектами\".md"
+                "file": "Быстрое повторение/Повторение.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,19 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26ca088ac286e977",
+  "active": "22f6bd71f50682f4",
   "lastOpenFiles": [
     "Управление проектами/Лекции по управлению проектами..md",
-    "Pasted image 20230619123246.png",
-    "Pasted image 20230619123232.png",
-    "Pasted image 20230619123206.png",
-    "Pasted image 20230619123022.png",
-    "Pasted image 20230619122958.png",
-    "Pasted image 20230619121458.png",
-    "Pasted image 20230619121420.png",
-    "Pasted image 20230619121352.png",
-    "Pasted image 20230619121254.png",
+    "Быстрое повторение/Повторение.md",
+    "Быстрое повторение",
+    "README.md",
+    "Road map/Modeling languages/BPMN/Pasted image 20230619121254.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230619123232.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230619123246.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230619122958.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230619121420.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230619121352.png",
     "Прочее/Поиск работы/Вакансии/Системный аналитик. Компания \"Управление информационными проектами\".md",
+    "Road map/Modeling languages/BPMN/Pasted image 20230619123206.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230619123022.png",
+    "Road map/Modeling languages/BPMN/Pasted image 20230619121458.png",
     "Прочее/Поиск работы/Составление резюме.md",
     "Road map/Standarts/Дополнительно/Основная разница между стандартами.md",
     "Road map/Standarts/Дополнительно/Вопросы по теме.md",
@@ -191,9 +195,7 @@
     "Прочее/Литература/Книги.md",
     "Road map",
     "Прочее/Литература",
-    "Road map/Protocols/SOAP/SOAP.md",
     "Прочее/Навыки",
-    "Road map/Software requirements/Другое",
     "Без названия.canvas"
   ]
 }
